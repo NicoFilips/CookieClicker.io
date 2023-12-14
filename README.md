@@ -20,13 +20,13 @@ cd cookieclicker
 // Open CookieClicker.html in your web browser
 ```
 
-📝 Instructions
+## 📝 Instructions
 
     Open the game in your web browser.
     Click the button to collect cookies.
     Enjoy the animations and toast messages!
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are always welcome! Whether it's code improvements, documentation, or design, any help is appreciated!
 💌 Feedback
@@ -44,7 +44,7 @@ Have fun collecting vegan cookies! 🎉
 markdown
 
 
-In this `README.md`:
+## 📍 Conclusion: In this `README.md`:
 
 - A brief introduction to the game is provided.
 - Key features are highlighted.
