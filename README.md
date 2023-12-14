@@ -16,8 +16,9 @@ Or clone the repository to play the game locally:
 
 ```bash
 git clone https://github.com/[YourUsername]/vegan-cookie-clicker.git
-cd vegan-cookie-clicker
-// Open index.html in your web browser
+cd cookieclicker
+// Open CookieClicker.html in your web browser
+```
 
 📝 Instructions
 
