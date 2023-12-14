@@ -2,6 +2,8 @@
 
 Welcome to the **Vegan Cookie Clicker** – a fun and simple web game where you collect vegan cookies! 
 
+🌐 **Play Now: [Vegan Cookie Clicker](https://NicoFilips.github.io/CookieClicker.io/)**
+
 ## 🌟 Features
 
 - **Collect Cookies**: Click the button and gather a variety of vegan cookies! 🍫🍪
