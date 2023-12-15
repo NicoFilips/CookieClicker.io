@@ -1,3 +1,15 @@
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+<a href="https://github.com/NicoFilips/ByteBrusher/">
+  <img src="https://user-images.githubusercontent.com/35654361/290687115-7ea13dc6-d4cc-4c23-ac2d-a93736f694da.png" alt="Logo" width="200" height="200">
+</a>
+
+<blockquote>
+  <p>Source: DALL-E 3</p>
+</blockquote>
+
+
 # 🍪 Vegan Cookie Clicker 🌱
 
 Welcome to the **Vegan Cookie Clicker** – a fun and simple web game where you collect vegan cookies! 
