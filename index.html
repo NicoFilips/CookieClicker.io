@@ -117,17 +117,18 @@
     <script>
         let count = 0;
         const cookieTypes = [
-            'vegan chocolate cookie',
-            'vegan vanilla cookie',
-            'vegan blueberry cookie',
-            'vegan strawberry cookie',
-            'vegan oatmeal cookie'
-            // Fügen Sie hier weitere Cookie-Sorten hinzu
+            'chocolate cookie',
+            'vanilla cookie',
+            'blueberry cookie',
+            'strawberry cookie',
+            'oatmeal cookie',
+            'raspberry cookie',
+            'cinnamon cookie'
         ];
 
         function clickCookie() {
             count++;
-            document.getElementById('cookieCounter').innerText = 'Vegan Cookies: ' + count;
+            document.getElementById('cookieCounter').innerText = 'Cookies Collected: ' + count;
             createParticleAnimation();
             showCookieToast();
         }
