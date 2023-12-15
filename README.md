@@ -10,26 +10,25 @@
 </blockquote>
 
 
-# 🍪 Vegan Cookie Clicker 🌱
+# 🍪 Cookie Clicker 🌱
 
-Welcome to the **Vegan Cookie Clicker** – a fun and simple web game where you collect vegan cookies! 
+Welcome to my **Cookie Clicker** – a fun and simple web game where you collect cookies! 
 
-🌐 **Play Now: [Vegan Cookie Clicker](https://NicoFilips.github.io/CookieClicker.io/)**
+🌐 **Play Now: [CookieClicker.io](https://NicoFilips.github.io/CookieClicker.io/)**
 
 ## 🌟 Features
 
 - **Collect Cookies**: Click the button and gather a variety of vegan cookies! 🍫🍪
 - **Animations**: Each click is accompanied by a cool particle animation! ✨
-- **Toast Messages**: Find out which type of vegan cookie you've just collected! 📣
+- **Toast Messages**: Find out which type of cookie you've just collected! 📣
 
 ## 🚀 Getting Started
 
-You can play the game directly through GitHub Pages. Here's the link: [Vegan Cookie Clicker](https://[YourUsername].github.io/vegan-cookie-clicker/)
-
+You can play the game directly through GitHub Pages.
 Or clone the repository to play the game locally:
 
 ```bash
-git clone https://github.com/[YourUsername]/vegan-cookie-clicker.git
+git clone https://github.com/NicoFilips/CookieClicker.io.git
 cd cookieclicker
 // Open CookieClicker.html in your web browser
 ```
@@ -65,5 +64,3 @@ markdown
 - Instructions for playing the game through GitHub Pages or locally are included.
 - Sections for contributions, feedback, and licensing information are present.
 - Emojis are used to make the `README.md` more vibrant and engaging.
-
-Remember to replace `[YourUsername]` with your actual GitHub username and update the license link if necessary.
