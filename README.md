@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<a href="https://github.com/NicoFilips/ByteBrusher/">
+<a href="https://github.com/NicoFilips/CookieClicker.io/">
   <img src="https://user-images.githubusercontent.com/35654361/290687115-7ea13dc6-d4cc-4c23-ac2d-a93736f694da.png" alt="Logo" width="200" height="200">
 </a>
 
@@ -15,6 +15,10 @@
 Welcome to my **Cookie Clicker** – a fun and simple web game where you collect cookies! 
 
 🌐 **Play Now: [CookieClicker.io](https://NicoFilips.github.io/CookieClicker.io/)**
+
+<a href="https://github.com/NicoFilips/CookieClicker.io/">
+  <img src="https://user-images.githubusercontent.com/35654361/292312593-9a627f33-066e-4b9a-88ae-f35d88127d3a.png" alt="Logo" width="700" height="425">
+</a>
 
 ## 🌟 Features
 
