@@ -9,6 +9,7 @@
   <p>Source: DALL-E 3</p>
 </blockquote>
 
+ [![deploy GitHub Page](https://github.com/NicoFilips/CookieClicker.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/NicoFilips/CookieClicker.io/actions/workflows/pages/pages-build-deployment)
 
 # 🍪 Cookie Clicker 🌱
 
