@@ -59,8 +59,6 @@ Like the project? ⭐️ Star the repo to show your support!
 
 Have fun collecting vegan cookies! 🎉
 
-markdown
-
 
 ## 📍 Conclusion: In this `README.md`:
 
